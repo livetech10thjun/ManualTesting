@@ -1,0 +1,199 @@
+				IT JObs 
+				
+					|
+		----------------------------------
+		|				Tools 			  Testing 
+	JAVA / 				Devops
+	pYTHON 				Salesforce
+	/ .NET 				ServiceNow
+	FS developer 		PowerBi
+	
+		--------------------------------------------------------------
+		
+						Testing :
+
+		Functional						Non-Functional
+		--------------------------------------------------------------
+		
+						Functional:
+						
+		Manual						Automation				
+		
+		--------------------------------------------------------------
+						Automation :
+						
+		Selenium				Cypress 		Playwirght 			TOSCA   etc..				
+						
+		----------------------------------------------------------------
+								Selenium
+								
+		java		pYTHON			ruby		 c#			javaScript
+
+
+*** Selenium + Java 
+
+Manaul Testing : 
+
+Module 1: Software testing concepts 
+
+Module 2: Software Testing Project
+
+Module 3: Agile Methodology(Scrum Framework) + JIRA tool 
+
+Module 4: SQL or Database Testing 
+
+
+Automation : ( Java + Selenium )		
+
+API Testing : (Postman)
+
+Mobile Testing : (Appium)
+
+------------------------------------------------------------
+Manaul Testing : 
+
+Module 1: Software testing concepts 
+
+Software Testing : 
+
+System S/W : 
+
+e.g - Operating system , Drivers 
+
+Programming Software: 
+
+e.g -  Compilers , Interpreters , debugging tools etc ..
+
+Application Software : 
+
+Web apps , Stand alone apps , mobile apps , Silver lite , Mainframe apps , etc ...
+
+Testing : 
+
+It's a process of checking the developed software is working as per client business requirements or not.
+
+-> to find bugs 
+-> to maintain quality
+
+The prime motto of testing is to deliver 
+a quality and risk free product.
+
+Terminoligies in Software Testing :
+
+1) Product : if a software application is developed for a multiple users (clients) 
+e.g : NCR companies product for ATM machines 
+
+2) Project : if a software application is developed for a single user(client)
+e.g : TCS is developing banking app for Bank of America using a Fidelity Product 
+
+3)Error : Any incorrect results due to human actions
+
+4)Bug/Defect/Issue/Fault: if the expected results are deviated from actual results 
+
+5) Failure / Incident : if end user finds the mistake while using the application 
+
+What do we test in now-a-days applications ?
+
+1) Functionalities
+2) UI or GUI Testing
+3) Usability 
+4) Performance Testing
+5) Load Testing
+6) Security Testing 
+7) Compatability 
+
+Roles or Duties of Tester :
+
+1) Understanding the Application under Test (Domain Expertise)
+2) Formal Testing (Writing the Test cases and executing them)
+3) Adhoc TEsting (No Test cases)
+4) Finding defects and reporting to developer
+5) Retesting and regression testing
+6) Develop automation scripts
+7) excecute automation scripts
+8) Analyse results
+9) publish reports 
+
+
+-------------------------------------------------------------------------------
+Software Testing :
+
+the process of checking are we developing right software or not and also
+checking the developed software is working as per client business requirements or not.
+
+Software Testing  = Verification +  Validation
+
+
+---------------------------------------------------------------------------
+Software Testing Principles :
+
+1) Exhaustive testing is impossible 
+2) Defect Clustering
+3) Pesticide Paradox
+4) Early Testing 
+5) Testing is application dependent  / sometimes situation dependent
+6) Testing should show presence of defects 
+7) Absence of defects is fallacy
+
+								Software Testing
+								
+			Static Testing						Dynamic Testing
+				or									or
+			Verification						Validation			
+												
+			- Reviews							Unit Testing
+				- requirement reviews			Integration Testing
+				- design reviews				System Testing
+				- code reviews					UAT - User Acceptance TEsting 
+				- test case reviews 								
+----------------------------------------------------------------------
+SDLC  - Software development life cycle 			
+Requirements gathering (Business Analysts/ Sales Team / SME's subject matter experts etc)
+					==> BRD -Business requirement docuement
+					==> BRS - Business requirement specifictaion 
+					==> SRS - System requirement specifictaion
+					==> FRS - Functional requirement specifictaion
+
+analysis and planning (Project Manager / Product Owner / Test Manager)
+					==> Project plan
+					==> Test plan
+					
+Deisgn (Solution Architects / System Architects / UX Developer)
+				==> HLD High level deisgn
+				==>Low Level Design  
+				
+Coding (Developers)
+			==> source code ==>  build 
+			
+Testing (Testers / Developers)
+			==> Test Scenarios
+			==> Test Cases
+			==> RTM (Requirement Traceabilty matrix)
+Production (Production support team)
+			
+						SDLC Models 
+						
+			1) Sequential Models 				2)Iterative or Incremental Models
+				- Waterfall Model					- RAD Model (Rapid Application Development)
+				- V model							- Prototype Model
+													- Spiral Model
+													- Agile MOdel 
+				
+- Waterfall Model	
+  small project 
+  requirement are clear 
+- V model 
+  small projects 
+  requirement are not clear 
+- RAD Model 
+  big projects 
+  here project to be completed in short span of time 
+			
+- Prototype Model 
+  big projects 
+  requirement are not clear and client will refer to some reference application  
+  
+- Spiral Model 
+  big projects 
+  requirement are dependent on other requirements
+  
