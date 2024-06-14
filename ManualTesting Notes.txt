@@ -196,4 +196,55 @@ Production (Production support team)
 - Spiral Model 
   big projects 
   requirement are dependent on other requirements
-  
+
+=================================================================
+Functional System Testing types :
+
+1) Smoke Testing or Build acceptance Testing 
+2) Formal Testing (writing and executing the test cases )
+3) Retesting 
+4) Regression Testing
+5) Sanity Testing 
+
+  subset of regression testing 
+6) Priority based testing 
+7) End to End Testing 
+
+Special Functional System Testing types :
+
+1) Benchmark Testing 
+2) Exploratory Testing 
+3) Monkey or Gorilla Testing 
+
+Non-Functional System Testing types :
+
+1) UI or GUI testing 
+2) Usability testing 
+3) Performance Testing 
+	Reponsiveness 
+	Stability 
+ below parameters will be used 
+	i) reponse time
+	ii) processing time
+	iii) concurrent user volume
+	
+Load TEsting :
+
+i) Stress Testing
+ii) Spike Testing 
+iii) Soak testing 
+iv) user volume testing 
+
+4) Security Testing 
+5) Compatability testing
+6) Globalization or Internationalization or I18N testing 	
+7) Localization Testing 
+8) Installation testing 
+9) UnInstallation testing 
+10) Recovery Testing 
+
+
+
+
+
+
