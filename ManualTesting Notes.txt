@@ -244,6 +244,69 @@ iv) user volume testing
 10) Recovery Testing 
 
 
+===========================================================
+Module 2 - Software Testing Project
+
+
+Software Testing Life cycle  (STLC)
+
+PM/TM/TL			Test Planning    ==> Test Strategy / Test Plan 
+						|
+Testers/TL			Test Analysis    ==> RCN - Requirement Clarification notes 
+						|
+Testers				Test Design      ==> Test Scenarios , Test cases , RTM - Requirement Traceabilty Matrix
+						|
+Testers/Developers	Test Execution   ==>Report bugs to Developers  / Retesting / Regression Testing
+						|
+TM/TL				Test Closure	 ==> Test Case Summary Reports , Defect Summary Reports 
+
+TEst Strategy :
+
+It's a high level docuement which mentions how the testing activities to be carried out
+in a project
+
+Test Plan :  
+
+It's detailed docuement which mentions how the testing activities to be carried out
+in a project
+
+1. Project Overview
+2. Documentation references 
+3. Scope of testing
+	3.1 In scope
+	3.2 Out Scope
+4. Test Strategy
+5. TEst Environment
+6. Test Deliverables 
+7. Staffing Plan 
+8. Risk planing and mitigation
+9. Work Schedules 
+10. Approvals or Sign off 
+
+Test Scenario : 
+
+a feature / behavior / journey / functionality to be test in application under test.
+
+for e.g in Adactin hotel app Home page :
+
+1) Login 
+2) Registration
+3) Forgot password
+
+?????????????????????????????????????????????????//
+Assignment  -1 
+
+Write the test scenarios for Facebook Home Page 
+
+using Test Scenario template 
+
+and send it to below email id :
+
+riyazsirnotes@gmail.com 
+????????????????????????????????????????????????????
+
+
+
 
 
 
